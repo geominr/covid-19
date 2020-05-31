@@ -34,13 +34,13 @@ Time series data for the 5 individual counties (boroughs) in New York City were 
 * [Daily AQI OZONE](https://github.com/geominr/covid-19/blob/master/covid-county-data/110%20Cities/ozone-110.csv)
 * [Daily AQI PM10](https://github.com/geominr/covid-19/blob/master/covid-county-data/110%20Cities/pm10-110.csv)
 
-### 345 metropolitan counties (Same sources as above)
+### 314 metropolitan counties (Same sources as above)
 ##### COVID-19 US counties time series data
 * [Confirmed Cases](https://github.com/geominr/covid-19/blob/master/covid-county-data/covid-cases.csv)
 * [COVID-19 Deaths](https://github.com/geominr/covid-19/blob/master/covid-county-data/covid-deaths.csv)
 
 ##### Health, hospitals and population data
-* [Static variables](https://github.com/geominr/covid-19/blob/master/covid-county-data/static.csv) - *Warning:* Some columns in this data set have faulty values
+* [Static variables](https://github.com/geominr/covid-19/blob/master/covid-county-data/static.csv)
 
 ##### Time series data on county-level mobility (Source: [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/))
 * [Workplaces](https://github.com/geominr/covid-19/blob/master/covid-county-data/workplaces_percent_change_from_baseline.csv)
