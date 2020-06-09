@@ -57,7 +57,7 @@ The reporting of accurate coronavirus data from local health departments has bee
 * [Flagged observations - deaths](https://github.com/geominr/covid-19/blob/master/covid-county-data/data-quality/jhu_uscounty_covidDeaths_flags.csv)
 
 
-### Social Distancing Map
+## Social Distancing Map
 Preliminary results of our ongoing research show a significant negative correlation between adherance to social distancing and new coronavirus cases in the 10 day window following a local stay-at-home order. Download the interactive map [here](https://github.com/geominr/covid-19/blob/master/social-distancing-map.html).
 ![Map](mapscreenshot.png)
 
